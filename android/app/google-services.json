@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813528585021",
+    "firebase_url": "https://engchat-e4245.firebaseio.com",
+    "project_id": "engchat-e4245",
+    "storage_bucket": "engchat-e4245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813528585021:android:a71500850abc1f07552b54",
+        "android_client_info": {
+          "package_name": "com.engchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813528585021-gnmlm4gmm6mr3ooacivb3clske3liqke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engchat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "813528585021-j8ht6dt420v5kj80k7l7m4hkuqfmsdr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlJnlIkW1Vr1g7NxPV1mtf9a-YSpjQeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813528585021-j8ht6dt420v5kj80k7l7m4hkuqfmsdr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
